@@ -5,7 +5,7 @@
 
 Рис. 1 Фрагмент екрану в рішення завдання 2.1.1 "Виконати безпечне клонування. GitHub-репозиторів, який був на Git-репозиторій. Перейти до катологу is Git-репозиторієм"
 
-![image](https://github.com/AlexandraMelnyk/OS-labs/blob/Laboratory-work-3/2.1.1.jpg?raw=true)
+![image](https://github.com/AlexandraMelnyk/OS-labs/blob/Laboratory-work-3/2.1.2.jpg?raw=true)
 
 Рис. 2 Фрагмент екрану з рішення завдання 2.1.2 "Створити нову Git-гілку з назвое «Laboratory-work-3. Перейті до роботи зі створеною гілкою."
 
